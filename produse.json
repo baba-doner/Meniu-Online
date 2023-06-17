@@ -1,345 +1,418 @@
 [
-  {
-    "categorieProdus": "CIORBE",
-    "numeProdus": "MERCIMEK ÇORBASI",
-    "descriereProdus": "ciorbă de linte, morcov, cartofi ,ceapă, unt, suc de lămâie",
-    "gramajProdus": "200 GR",
-    "pretProdus": 15
-  },
-  {
-    "categorieProdus": "CIORBE",
-    "numeProdus": "TAVUK ÇORBASI",
-    "descriereProdus": "ciorbă de pui, piept de pui, morcov ,unt, iaurt",
-    "gramajProdus": "200 GR",
-    "pretProdus": 15
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "ISKENDER VITA",
-    "descriereProdus": "carne de vită/oaie, sos de roșii, ardei iute, iaurt, orez și pâine turcească",
-    "gramajProdus": "350 GR",
-    "pretProdus": 55
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "ISKENDER PUI",
-    "descriereProdus": "carne de pui, sos de roșii, ardei iute, iaurt, orez și pâine turcească",
-    "gramajProdus": "350 GR",
-    "pretProdus": 50
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "BABA KOFTE",
-    "descriereProdus": "chiftele din carne tocată vită/oaie condimentate, roșii, ceapă, ardei iute, orez",
-    "gramajProdus": "250 GR",
-    "pretProdus": 35
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "BABA BURGER",
-    "descriereProdus": "chifle, carne de vită, roșii, ceapă, castraveți murați, cașcaval cheddar",
-    "gramajProdus": "200 GR",
-    "pretProdus": 30
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MIC VITĂ",
-    "descriereProdus": "carne de vită + garnituri la alegere",
-    "gramajProdus": "250 GR",
-    "pretProdus": 28
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MARE VITĂ",
-    "descriereProdus": "carne de vită + garnituri la alegere",
-    "gramajProdus": "350 GR",
-    "pretProdus": 35
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MIC PUI",
-    "descriereProdus": "carne de pui + garnituri la alegere",
-    "gramajProdus": "250 GR",
-    "pretProdus": 25
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MARE PUI",
-    "descriereProdus": "carne de pui +garnituri la alegere",
-    "gramajProdus": "350 GR",
-    "pretProdus": 28
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "CHIFLĂ VITĂ",
-    "descriereProdus": "carne de vită + garnituri la alegere",
-    "gramajProdus": "350 GR",
-    "pretProdus": 35
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "CHIFLĂ PUI",
-    "descriereProdus": "carne de pui + garnituri la alegere",
-    "gramajProdus": "350 GR",
-    "pretProdus": 28
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "CHIFLA MIX",
-    "descriereProdus": "carne de pui + garnituri la alegere",
-    "gramajProdus": "350 GR",
-    "pretProdus": 30
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DONER PUI LA FARFURIE",
-    "descriereProdus": "carne de pui cu orez turcesc, roșii, ardei iute, ceapă, cartofi prăjiți",
-    "gramajProdus": "350 GR",
-    "pretProdus": 40
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DONER VITĂ LA FARFURIE",
-    "descriereProdus": "carne de vita cu orez turcesc, roșii, ardei iute, ceapă, cartofi prăjiți",
-    "gramajProdus": "350 GR",
-    "pretProdus": 50
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DONER MIX LA FARFURIE",
-    "descriereProdus": "carne de vita/pui cu orez turcesc, roșii, ardei iute, ceapă, cartofi prăjiți",
-    "gramajProdus": "350 GR",
-    "pretProdus": 45
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "ANTRICOT",
-    "descriereProdus": "antricot de vițel, unt,roșii cherry",
-    "gramajProdus": "200 GR",
-    "pretProdus": 55
-  },
-  {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "LOKUM",
-    "descriereProdus": "mușchi de vițel, unt, rozmarin, usturoi, roșii cherry",
-    "gramajProdus": "200 GR",
-    "pretProdus": 65
-  },
-  {
-    "categorieProdus": "GARNITURI",
-    "numeProdus": "CARTOFI PRĂJIȚI",
-    "descriereProdus": "",
-    "gramajProdus": "150 GR",
-    "pretProdus": 10
-  },
-  {
-    "categorieProdus": "GARNITURI",
-    "numeProdus": "OREZ",
-    "descriereProdus": "",
-    "gramajProdus": "150 GR",
-    "pretProdus": 18
-  },
-  {
-    "categorieProdus": "GARNITURI",
-    "numeProdus": "PIDE",
-    "descriereProdus": "",
-    "gramajProdus": "100 GR",
-    "pretProdus": 3
-  },
-  {
-    "categorieProdus": "GARNITURI",
-    "numeProdus": "SALATA ASORTATA",
-    "descriereProdus": "roșii cherry , castraveți, varză roșie,morcov",
-    "gramajProdus": "150 GR",
-    "pretProdus": 15
-  },
-  {
-    "categorieProdus": "DESERT",
-    "numeProdus": "HAVUC DILIMI",
-    "descriereProdus": "",
-    "gramajProdus": "100 GR",
-    "pretProdus": 20
-  },
-  {
-    "categorieProdus": "DESERT",
-    "numeProdus": "BAKLAVALE CU FISTIK",
-    "descriereProdus": "",
-    "gramajProdus": "100 GR",
-    "pretProdus": 20
-  },
-  {
-    "categorieProdus": "DESERT",
-    "numeProdus": "SUTLAÇ / OREZ CU LAPTE",
-    "descriereProdus": "",
-    "gramajProdus": "200 GR",
-    "pretProdus": 15
-  },
-  {
-    "categorieProdus": "DESERT",
-    "numeProdus": "BUDINCĂ CU CIOCOLATĂ",
-    "descriereProdus": "",
-    "gramajProdus": "200 GR",
-    "pretProdus": 20
-  },
-  {
-    "categorieProdus": "DESERT",
-    "numeProdus": "TAȘ KADAYIF",
-    "descriereProdus": "",
-    "gramajProdus": "100 GR",
-    "pretProdus": 20
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "COCA COLA",
-    "descriereProdus": "",
-    "gramajProdus": "0.25 L",
-    "pretProdus": 6
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "COCA COLA ZERO",
-    "descriereProdus": "",
-    "gramajProdus": "0.25 L",
-    "pretProdus": 6
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "FANTA",
-    "descriereProdus": "",
-    "gramajProdus": "0.25 L",
-    "pretProdus": 6
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "SPRITE",
-    "descriereProdus": "",
-    "gramajProdus": "0.25 L",
-    "pretProdus": 6
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "SCHWEPPES PINK TONIC/ BITTER LEMON/ MANDARIN",
-    "descriereProdus": "",
-    "gramajProdus": "0.25 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "FUZETEA LĂMÂIE / PIERSICĂ",
-    "descriereProdus": "",
-    "gramajProdus": "0.25 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "CAPPY PORTOCALE/ PORTOCALE ROȘII",
-    "descriereProdus": "",
-    "gramajProdus": "0.25 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "CAPPY LIMONADĂ CĂPȘUNI",
-    "descriereProdus": "",
-    "gramajProdus": "0.40 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "COCA COLA",
-    "descriereProdus": "",
-    "gramajProdus": "0.33 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "COCA COLA ZERO",
-    "descriereProdus": "",
-    "gramajProdus": "0.33 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "FANTA",
-    "descriereProdus": "",
-    "gramajProdus": "0.33 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "SPRITE",
-    "descriereProdus": "",
-    "gramajProdus": "0.33 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "COCA COLA",
-    "descriereProdus": "",
-    "gramajProdus": "0.5 L",
-    "pretProdus": 8
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "COCA COLA ZERO",
-    "descriereProdus": "",
-    "gramajProdus": "0.5 L",
-    "pretProdus": 8
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "FANTA PORTOCALE",
-    "descriereProdus": "",
-    "gramajProdus": "0.5 L",
-    "pretProdus": 8
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "SPRITE",
-    "descriereProdus": "",
-    "gramajProdus": "0.5 L",
-    "pretProdus": 8
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "BURN ZERO VERDE",
-    "descriereProdus": "",
-    "gramajProdus": "0.25 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "BURN ZERO ZAHĂR CU PIERSICĂ",
-    "descriereProdus": "",
-    "gramajProdus": "0.33 L",
-    "pretProdus": 7
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "DORNA APĂ PLATĂ",
-    "descriereProdus": "",
-    "gramajProdus": "0.33 L",
-    "pretProdus": 6
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "DORNA APĂ MINERALĂ",
-    "descriereProdus": "",
-    "gramajProdus": "0.5 L",
-    "pretProdus": 6
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "APĂ PLATĂ FUSKA",
-    "descriereProdus": "",
-    "gramajProdus": "0.5 L",
-    "pretProdus": 3
-  },
-  {
-    "categorieProdus": "RĂCORITOARE",
-    "numeProdus": "AYRAN",
-    "descriereProdus": "",
-    "gramajProdus": "0.35 L",
-    "pretProdus": 7.5
-  }
- ]
+ {
+   "categorieProdus": "CIORBE",
+   "numeProdus": "MERCIMEK ÇORBASI",
+   "descriereProdus": "ciorbă de linte, morcov, cartofi ,ceapă, unt, suc de lămâie",
+   "gramajProdus": "200 GR",
+   "pretProdus": 15,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "CIORBE",
+   "numeProdus": "TAVUK ÇORBASI",
+   "descriereProdus": "ciorbă de pui, piept de pui, morcov ,unt, iaurt",
+   "gramajProdus": "200 GR",
+   "pretProdus": 15,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "ISKENDER VITA",
+   "descriereProdus": "carne de vită/oaie, sos de roșii, ardei iute, iaurt, orez și pâine turcească",
+   "gramajProdus": "350 GR",
+   "pretProdus": 55,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "ISKENDER PUI",
+   "descriereProdus": "carne de pui, sos de roșii, ardei iute, iaurt, orez și pâine turcească",
+   "gramajProdus": "350 GR",
+   "pretProdus": 50,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "BABA KOFTE",
+   "descriereProdus": "chiftele din carne tocată vită/oaie condimentate, roșii, ceapă, ardei iute, orez",
+   "gramajProdus": "250 GR",
+   "pretProdus": 35,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "BABA BURGER",
+   "descriereProdus": "chifle, carne de vită, roșii, ceapă, castraveți murați, cașcaval cheddar",
+   "gramajProdus": "200 GR",
+   "pretProdus": 30,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DURUM MIC VITĂ",
+   "descriereProdus": "carne de vită/oaie + garnituri la alegere",
+   "gramajProdus": "250 GR",
+   "pretProdus": 28,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DURUM MARE VITĂ",
+   "descriereProdus": "carne de vită/oaie + garnituri la alegere",
+   "gramajProdus": "350 GR",
+   "pretProdus": 35,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DURUM MIC PUI",
+   "descriereProdus": "carne de pui + garnituri la alegere",
+   "gramajProdus": "250 GR",
+   "pretProdus": 25,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DURUM MARE PUI",
+   "descriereProdus": "carne de pui +garnituri la alegere",
+   "gramajProdus": "350 GR",
+   "pretProdus": 28,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DURUM MIX MIC",
+   "descriereProdus": "carne de vita/oaie/pui + garnituri la alegere",
+   "gramajProdus": "250 GR",
+   "pretProdus": 28,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DURUM MIX MARE",
+   "descriereProdus": "carne de vita/oaie/pui + garnituri la alegere",
+   "gramajProdus": "350 GR",
+   "pretProdus": 32,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "CHIFLĂ VITĂ",
+   "descriereProdus": "carne de vită/oaie + garnituri la alegere",
+   "gramajProdus": "350 GR",
+   "pretProdus": 35,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "CHIFLĂ PUI",
+   "descriereProdus": "carne de pui + garnituri la alegere",
+   "gramajProdus": "350 GR",
+   "pretProdus": 28,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "CHIFLA MIX",
+   "descriereProdus": "carne de pui + garnituri la alegere",
+   "gramajProdus": "350 GR",
+   "pretProdus": 30,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DONER PUI LA FARFURIE",
+   "descriereProdus": "carne de pui cu orez turcesc, roșii, ardei iute, ceapă, cartofi prăjiți",
+   "gramajProdus": "350 GR",
+   "pretProdus": 40,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DONER VITĂ LA FARFURIE",
+   "descriereProdus": "carne de vita/oaie cu orez turcesc, roșii, ardei iute, ceapă, cartofi prăjiți",
+   "gramajProdus": "350 GR",
+   "pretProdus": 50,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "DONER MIX LA FARFURIE",
+   "descriereProdus": "carne de vita/oaie/pui cu orez turcesc, roșii, ardei iute, ceapă, cartofi prăjiți",
+   "gramajProdus": "350 GR",
+   "pretProdus": 45,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "ANTRICOT",
+   "descriereProdus": "antricot de vițel, unt,roșii cherry",
+   "gramajProdus": "200 GR",
+   "pretProdus": 55,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "KEBAB",
+   "numeProdus": "LOKUM",
+   "descriereProdus": "mușchi de vițel, unt, rozmarin, usturoi, roșii cherry",
+   "gramajProdus": "200 GR",
+   "pretProdus": 65,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "GARNITURI",
+   "numeProdus": "CARTOFI PRĂJIȚI",
+   "descriereProdus": "",
+   "gramajProdus": "150 GR",
+   "pretProdus": 10,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "GARNITURI",
+   "numeProdus": "OREZ",
+   "descriereProdus": "orez alb , orzisor , unt , sare",
+   "gramajProdus": "150 GR",
+   "pretProdus": 18,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "GARNITURI",
+   "numeProdus": "PIDE",
+   "descriereProdus": "lipie turceasca",
+   "gramajProdus": "100 GR",
+   "pretProdus": 3,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "GARNITURI",
+   "numeProdus": "SALATA ASORTATA",
+   "descriereProdus": "roșii cherry , castraveți, varză roșie,morcov",
+   "gramajProdus": "150 GR",
+   "pretProdus": 15,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "DESERT",
+   "numeProdus": "HAVUC DILIMI",
+   "descriereProdus": "baclava felie \"carrot slice\" cu fistik",
+   "gramajProdus": "100 GR",
+   "pretProdus": 20,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "DESERT",
+   "numeProdus": "BAKLAVALE CU FISTIK",
+   "descriereProdus": "",
+   "gramajProdus": "100 GR",
+   "pretProdus": 20,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "DESERT",
+   "numeProdus": "SUTLAÇ / OREZ CU LAPTE",
+   "descriereProdus": "orez alb , lapte , zahar , amidon",
+   "gramajProdus": "200 GR",
+   "pretProdus": 15,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "DESERT",
+   "numeProdus": "BUDINCĂ CU CIOCOLATĂ",
+   "descriereProdus": "lapte , ciocolata cu lapte , cacao , zahar",
+   "gramajProdus": "200 GR",
+   "pretProdus": 20,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "DESERT",
+   "numeProdus": "KEMAL PASA",
+   "descriereProdus": "biscuiti uscati din gris , oua , branza de vaci , oua , faina de grau si sirop",
+   "gramajProdus": "150 GR",
+   "pretProdus": 12,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "DESERT",
+   "numeProdus": "TAȘ KADAYIF",
+   "descriereProdus": "clatite din gris si zahar , mozzarella , fistik si sirop",
+   "gramajProdus": "100 GR",
+   "pretProdus": 20,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "COCA COLA",
+   "descriereProdus": "",
+   "gramajProdus": "0.25 L",
+   "pretProdus": 6,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "COCA COLA ZERO",
+   "descriereProdus": "",
+   "gramajProdus": "0.25 L",
+   "pretProdus": 6,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "FANTA",
+   "descriereProdus": "",
+   "gramajProdus": "0.25 L",
+   "pretProdus": 6,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "SPRITE",
+   "descriereProdus": "",
+   "gramajProdus": "0.25 L",
+   "pretProdus": 6,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "SCHWEPPES PINK TONIC/ BITTER LEMON/ MANDARIN",
+   "descriereProdus": "",
+   "gramajProdus": "0.25 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "FUZETEA LĂMÂIE / PIERSICĂ",
+   "descriereProdus": "",
+   "gramajProdus": "0.25 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "CAPPY PORTOCALE/ PORTOCALE ROȘII",
+   "descriereProdus": "",
+   "gramajProdus": "0.25 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "CAPPY LIMONADĂ CĂPȘUNI",
+   "descriereProdus": "",
+   "gramajProdus": "0.40 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "COCA COLA",
+   "descriereProdus": "",
+   "gramajProdus": "0.33 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "COCA COLA ZERO",
+   "descriereProdus": "",
+   "gramajProdus": "0.33 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "FANTA",
+   "descriereProdus": "",
+   "gramajProdus": "0.33 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "SPRITE",
+   "descriereProdus": "",
+   "gramajProdus": "0.33 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "COCA COLA",
+   "descriereProdus": "",
+   "gramajProdus": "0.5 L",
+   "pretProdus": 8,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "COCA COLA ZERO",
+   "descriereProdus": "",
+   "gramajProdus": "0.5 L",
+   "pretProdus": 8,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "FANTA PORTOCALE",
+   "descriereProdus": "",
+   "gramajProdus": "0.5 L",
+   "pretProdus": 8,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "SPRITE",
+   "descriereProdus": "",
+   "gramajProdus": "0.5 L",
+   "pretProdus": 8,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "BURN ZERO VERDE",
+   "descriereProdus": "",
+   "gramajProdus": "0.25 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "BURN ZERO ZAHĂR CU PIERSICĂ",
+   "descriereProdus": "",
+   "gramajProdus": "0.33 L",
+   "pretProdus": 7,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "DORNA APĂ PLATĂ",
+   "descriereProdus": "",
+   "gramajProdus": "0.33 L",
+   "pretProdus": 6,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "DORNA APĂ MINERALĂ",
+   "descriereProdus": "",
+   "gramajProdus": "0.33 L",
+   "pretProdus": 6,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "APĂ PLATĂ FUSKA",
+   "descriereProdus": "",
+   "gramajProdus": "0.5 L",
+   "pretProdus": 3,
+   "FIELD6": ""
+ },
+ {
+   "categorieProdus": "RĂCORITOARE",
+   "numeProdus": "AYRAN",
+   "descriereProdus": "",
+   "gramajProdus": "0.35 L",
+   "pretProdus": 8,
+   "FIELD6": ""
+ }
+]
