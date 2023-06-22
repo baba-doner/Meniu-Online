@@ -18,7 +18,7 @@ function incarcaMeniu()
                 cardProdus+='<br/><div style="color:gray;">'+produs.descriereProdus+'</div>'
                 cardProdus+='<div style="font-size:12px;padding:1.2rem">'
                 cardProdus+='<br/><p><b>Informații nutriționale 100g:</b></p><div style="color:gray;">'+ produs.nutritieProdus+'</div>';
-                if(produs.alergeniProdus!="" || produs.alergeniProdus!="-")
+                if(produs.alergeniProdus!==''|| produs.alergeniProdus!=='-')
                 {
                     cardProdus+='<p><b>Alergeni:</b></p><div style="color:gray;">'+ produs.alergeniProdus+'</div>';
                 }
@@ -35,7 +35,7 @@ function incarcaMeniu()
                 cardProdus+='<br/><div style="color:gray;">'+produs.descriereProdus+'</div>'
                 cardProdus+='<div style="font-size:12px;padding-left:1.2rem">'
                 cardProdus+='<br/><p><b>Informații nutriționale 100g:</b></p><div style="color:gray;">'+ produs.nutritieProdus+'</div>';
-                if(produs.alergeniProdus!="" || produs.alergeniProdus!="-")
+                if(produs.alergeniProdus!=='' || produs.alergeniProdus!=='-')
                 {
                     cardProdus+='<p><b>Alergeni:</b></p><div style="color:gray;">'+ produs.alergeniProdus+'</div>';
                 }
