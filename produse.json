@@ -31,7 +31,7 @@
     "numeProdus": "BABA KOFTE",
     "descriereProdus": "Carne tocată de vită - 190g, Orez - 50g, Cartofi prăjiți(*produs/din produs decongelat) - 50g, Carne de oaie",
     "gramajProdus": "250 GR",
-    "pretProdus": 35,
+    "pretProdus": 40,
     "nutritieProdus": "Valoare Energetică (kJ/kcal): 776.9 / 184.6, Grăsimi (g): 5.6 din care: Acizi grași saturați (g) 2.8, Glucide (g): 18.2 din care: Zaharuri (g): 2, Proteine (g): 15, Sare (g): 0.5",
     "alergeniProdus": "-"
   },
@@ -157,7 +157,7 @@
     "numeProdus": "CARTOFI PRĂJIȚI",
     "descriereProdus": "Cartofi prăjiți(*produs/din produs decongelat) - 150g",
     "gramajProdus": "150 GR",
-    "pretProdus": 10,
+    "pretProdus": 15,
     "nutritieProdus": "Valoare Energetică (kJ/kcal): 695 / 166, Grăsimi (g): 7.5 din care: Acizi grași saturați (g) 1.1, Glucide (g): 22 din care: Zaharuri (g): 7.1, Proteine (g): 1.5, Sare (g): 0.4",
     "alergeniProdus": "-"
   },
@@ -409,7 +409,7 @@
     "numeProdus": "APĂ PLATĂ FUSKA",
     "descriereProdus": "",
     "gramajProdus": "0.5 L",
-    "pretProdus": 3,
+    "pretProdus": 4,
     "nutritieProdus": "",
     "alergeniProdus": ""
   },
