@@ -1,210 +1,224 @@
 [
   {
-    "categorieProdus": "CIORBE",
-    "numeProdus": "MERCIMEK ÇORBASI",
-    "descriereProdus": "Linte - 60g, Făină de grâu, Cartofi, Morcovi cruzi, Unt",
-    "gramajProdus": "200 GR",
-    "pretProdus": 15,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 681.6 / 162.3, Grăsimi (g): 4.7 din care: Acizi grași saturați (g) 2.7, Glucide (g): 20.6 din care: Zaharuri (g): 0.9, Proteine (g): 8, Sare (g): 0.1",
-    "alergeniProdus": "Conține: Gluten, Lapte Poate conține urme de: Soia, Țelină"
+   "categorieProdus": "SUPE ",
+   "numeProdus": "SUPA DE LINTE ",
+   "descriereProdus": "LINTE ROSIE , ARDEI IUTE , LAMAIE, PAINE",
+   "gramajProdus": "300 GR",
+   "pretProdus": 15,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 681.6 / 162.3, Grăsimi (g): 4.7 din care: Acizi grași saturați (g) 2.7, Glucide (g): 20.6 din care: Zaharuri (g): 0.9, Proteine (g): 8, Sare (g): 0.1",
+   "alergeniProdus": "Conține: Gluten, Lapte Poate conține urme de: Soia, Țelină"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "ISKENDER VITA",
-    "descriereProdus": "Sos de rosii - 140ml, Carne de vită - 100g, Pâine la tigaie - 70g, Unt - 50g, Iaurt grecesc 10% grasime - 30g, (LAPTE de vaca pasteurizat, grasime din LAPTE, proteine din LAPTE, fermenti selectionati de iaurt.)",
-    "gramajProdus": "350 GR",
-    "pretProdus": 55,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 796.1 / 192, Grăsimi (g): 15.4 din care: Acizi grași saturați (g) 8.2, Glucide (g): 5.6 din care: Zaharuri (g): 2.4, Proteine (g): 7.6, Sare (g): 0.3",
-    "alergeniProdus": "Conține: Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "ISKENDER VITA ",
+   "descriereProdus": "CARNE DE VITA SI OAIE , SOS ROSU , PAINE , IAURT GRECESC",
+   "gramajProdus": "400 GR",
+   "pretProdus": 55,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 796.1 / 192, Grăsimi (g): 15.4 din care: Acizi grași saturați (g) 8.2, Glucide (g): 5.6 din care: Zaharuri (g): 2.4, Proteine (g): 7.6, Sare (g): 0.3",
+   "alergeniProdus": "Conține: Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "ISKENDER PUI",
-    "descriereProdus": "Sos de rosii - 140ml, Pulpe de pui - 100g, Pâine la tigaie - 70g, Unt - 50g, Iaurt grecesc bio cu 10% grasime - 30g, (LAPTE de vaca ecologic pasteurizat, grasime din LAPTE ecologic, culturi lactice.)",
-    "gramajProdus": "350 GR",
-    "pretProdus": 50,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 865.4 / 208.9, Grăsimi (g): 17.6 din care: Acizi grași saturați (g) 9, Glucide (g): 5.6 din care: Zaharuri (g): 2.4, Proteine (g): 6.8, Sare (g): 0.3",
-    "alergeniProdus": "Conține: Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "ISKENDER PUI ",
+   "descriereProdus": "CARNE DE PUI , SOS ROSU , PAINE , IAURT GRECESC",
+   "gramajProdus": "400 GR",
+   "pretProdus": 50,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 865.4 / 208.9, Grăsimi (g): 17.6 din care: Acizi grași saturați (g) 9, Glucide (g): 5.6 din care: Zaharuri (g): 2.4, Proteine (g): 6.8, Sare (g): 0.3",
+   "alergeniProdus": "Conține: Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "BABA KOFTE",
-    "descriereProdus": "Carne tocată de vită - 190g, Orez - 50g, Cartofi prăjiți(*produs/din produs decongelat) - 50g, Carne de oaie",
-    "gramajProdus": "250 GR",
-    "pretProdus": 40,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 776.9 / 184.6, Grăsimi (g): 5.6 din care: Acizi grași saturați (g) 2.8, Glucide (g): 18.2 din care: Zaharuri (g): 2, Proteine (g): 15, Sare (g): 0.5",
-    "alergeniProdus": "-"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "ISKENDER MIX ",
+   "descriereProdus": "CARNE VITA /OAIE/PUI , SOS ROSU , PAINE , IAURT GRECESC",
+   "gramajProdus": "400 GR",
+   "pretProdus": 45,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 900.9 / 217.6, Grăsimi (g): 18.7 din care: Acizi grași saturați (g) 9.8, Glucide (g): 5.6 din care: Zaharuri (g): 2.4, Proteine (g): 6.7, Sare (g): 0.3",
+   "alergeniProdus": "Conține: Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "BABA BURGER",
-    "descriereProdus": "Carne de vită - 180g, Chifla burger brioche - 80g, (Faina de GRAU, apa, drojdie, zahar, ulei vegetal (floarea-soarelui), zer din LAPTE, faina de cartof, maia din GRAU 1.7% (faina de GRAU fermentata, apa), otet de mere, gluten din GRAU, sare, emulsifianti (E481, E472e, E471), arome naturale, conservant (E282), proteine vegetale, faina de SOIA, coloranti (E160a, E161b), dextroza, agent de tratare a fainii (E300), maltodextrina, amidon.), Brânză cheddar, (LAPTE de vaca pasteurizat, sare, culturi lactice, colorant: betacaroten, cheag.), Ceapă, Roșii, Colorant: Caroteni (amestec de caroteni, b -caroteni) (E 160 a), Luteina (E 161 b), betacaroten (E 160 e), Conservant: Propionat de calciu (E 282), Emulsifiant: Mono si digliceride acizilor grasi (E 471), Stearoil 2-lactilat de Na (E 481), Datem (E 472e), Agent de tratare a făinii: Acid ascorbic (E 300)",
-    "gramajProdus": "200 GR",
-    "pretProdus": 35,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 715.2 / 170.7, Grăsimi (g): 5.3 din care: Acizi grași saturați (g) 2.4, Glucide (g): 13.2 din care: Zaharuri (g): 13.1, Proteine (g): 17.1, Sare (g): 0.4",
-    "alergeniProdus": "Conține: Gluten, Soia, Lapte Poate conține urme de: Ouă, Susan"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "BABA KOFTE",
+   "descriereProdus": "CHIFTELE DIN CARNE DE VITA SI OAIE , OREZ , CARTOFI PRAJITI , PAINE",
+   "gramajProdus": "350 GR",
+   "pretProdus": 40,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 776.9 / 184.6, Grăsimi (g): 5.6 din care: Acizi grași saturați (g) 2.8, Glucide (g): 18.2 din care: Zaharuri (g): 2, Proteine (g): 15, Sare (g): 0.5"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MIC VITĂ",
-    "descriereProdus": "Carne de vită - 90g, Lipie libaneza alba - 75g, (Faina alba de GRAU 650 (97%), apa, zahar, drojdie, sare iodata, gluten din GRAU, conservant: propionat de calciu.), Cartofi prăjiți(*produs/din produs decongelat) - 30g, Castraveti murati, Castraveti, Roșii proaspete, Varză, Ketchup, Maioneză (Conține Lapte, Ouă), Conservant: Propionat de calciu (E 282)",
-    "gramajProdus": "250 GR",
-    "pretProdus": 28,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 751.4 / 180.6, Grăsimi (g): 5.1 din care: Acizi grași saturați (g) 1.3, Glucide (g): 22.1 din care: Zaharuri (g): 19.8, Proteine (g): 11.1, Sare (g): 0.5",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "BABA BURGER ",
+   "descriereProdus": "CHIFLA ,CARNE DE VITA , ROSII , CEAPA , BRANZA CHEDDAR  , KETCHUP , MAIONEZA , CARTOFI PRAJITI (produs congelat) ",
+   "gramajProdus": "300 GR",
+   "pretProdus": 35,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 715.2 / 170.7, Grăsimi (g): 5.3 din care: Acizi grași saturați (g) 2.4, Glucide (g): 13.2 din care: Zaharuri (g): 13.1, Proteine (g): 17.1, Sare (g): 0.4",
+   "alergeniProdus": "Conține: Gluten, Soia, Lapte Poate conține urme de: Ouă, Susan"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MARE VITĂ",
-    "descriereProdus": "Carne de vită - 130g, Lipie libaneza alba - 90g, (Faina alba de GRAU 650 (97%), apa, zahar, drojdie, sare iodata, gluten din GRAU, conservant: propionat de calciu.), Cartofi prajiti(*produs/din produs decongelat) - 40g, Roșii proaspete, Varza, Castraveti murati, Castraveti, Maioneză (Conține Lapte, Ouă), Ketchup, Ceapă, Conservant: Propionat de calciu (E 282)",
-    "gramajProdus": "350 GR",
-    "pretProdus": 35,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 665.4 / 160.3, Grăsimi (g): 4.2 din care: Acizi grași saturați (g) 1.1, Glucide (g): 18.9 din care: Zaharuri (g): 16.6, Proteine (g): 11.1, Sare (g): 0.5",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "VITA LA FARFURIE ",
+   "descriereProdus": "CARNE VITA/OAIE , ROSII , CASTRAVETI , OREZ , CARTOFI PRAJITI (produs congelat), PAINE",
+   "gramajProdus": "350 GR",
+   "pretProdus": 50,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 1112 / 264.2, Grăsimi (g): 6.3 din care: Acizi grași saturați (g) 1.8, Glucide (g): 41.6 din care: Zaharuri (g): 3.4, Proteine (g): 9.3, Sare (g): 1.2"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MIC PUI",
-    "descriereProdus": "Pulpe de pui - 90g, Lipie libaneza alba - 75g, (Faina alba de GRAU 650 (97%), apa, zahar, drojdie, sare iodata, gluten din GRAU, conservant: propionat de calciu.), Cartofi prăjiți(*produs/din produs decongelat) - 30g, Castraveti murati, Varză, Castraveti, Roșii proaspete, Ketchup, Maioneză (Conține Lapte, Ouă), Conservant: Propionat de calciu (E 282)",
-    "gramajProdus": "250 GR",
-    "pretProdus": 25,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 863 / 207.8, Grăsimi (g): 8.4 din care: Acizi grași saturați (g) 2.1, Glucide (g): 22.1 din care: Zaharuri (g): 19.8, Proteine (g): 9.9, Sare (g): 0.5",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "PUI LA FARFURIE ",
+   "descriereProdus": "CARNE DE PUI , ROSII , CASTRAVETI , OREZ , CARTOFI PRAJITI (produs congelat) , PAINE",
+   "gramajProdus": "350 GR",
+   "pretProdus": 40,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 1112 / 264.2, Grăsimi (g): 6.3 din care: Acizi grași saturați (g) 1.8, Glucide (g): 41.6 din care: Zaharuri (g): 3.4, Proteine (g): 9.3, Sare (g): 1.2"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MARE PUI",
-    "descriereProdus": "Pulpe de pui - 130g, Lipie libaneza alba - 90g, (Faina alba de GRAU 650 (97%), apa, zahar, drojdie, sare iodata, gluten din GRAU, conservant: propionat de calciu.), Cartofi prăjiți(*produs/din produs decongelat) - 40g, Roșii proaspete, Castraveti murati, Varză, Castraveti, Ketchup, Maioneză (Conține Lapte, Ouă), Ceapă, Conservant: Propionat de calciu (E 282)",
-    "gramajProdus": "350 GR",
-    "pretProdus": 28,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 813.5 / 196.4, Grăsimi (g): 8.4 din care: Acizi grași saturați (g) 2.1, Glucide (g): 19.3 din care: Zaharuri (g): 17.3, Proteine (g): 9.8, Sare (g): 0.5",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "MIX LA FARFURIE ",
+   "descriereProdus": "CARNE DE VITA/OAIE/PUI , ROSII , CASTRAVETI , OREZ , CARTOFI PRAJITI (produs congelat)  , PAINE ",
+   "gramajProdus": "350 GR",
+   "pretProdus": 45,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 1063.3 / 252.4, Grăsimi (g): 4.8 din care: Acizi grași saturați (g) 1.4, Glucide (g): 41.6 din care: Zaharuri (g): 3.4, Proteine (g): 9.8, Sare (g): 1.2"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MIX MIC",
-    "descriereProdus": "Lipie libaneza alba - 75g, (Faina alba de GRAU 650 (97%), apa, zahar, drojdie, sare iodata, gluten din GRAU, conservant: propionat de calciu.), Pulpe de pui - 45g, Carne de vită - 45g, Cartofi prăjiți - 30g, Castraveti murati, Castraveti, Roșii proaspete, Varză, Ketchup, Maioneză (Conține Lapte, Ouă), Conservant: Propionat de calciu (E 282)",
-    "gramajProdus": "250 GR",
-    "pretProdus": 28,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 807.1 / 194.2, Grăsimi (g): 6.8 din care: Acizi grași saturați (g) 1.7, Glucide (g): 22.1 din care: Zaharuri (g): 19.8, Proteine (g): 10.5, Sare (g): 0.5",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "DURUM DE VITA MARE  ",
+   "descriereProdus": "CARNE DE VITA/OAIE , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat)   , KETCHUP , MAIONEZA ",
+   "gramajProdus": "350 GR",
+   "pretProdus": 35,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 665.4 / 160.3, Grăsimi (g): 4.2 din care: Acizi grași saturați (g) 1.1, Glucide (g): 18.9 din care: Zaharuri (g): 16.6, Proteine (g): 11.1, Sare (g): 0.5",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DURUM MIX MARE",
-    "descriereProdus": "Lipie libaneza alba - 90g, (Faina alba de GRAU 650 (97%), apa, zahar, drojdie, sare iodata, gluten din GRAU, conservant: propionat de calciu.), Pulpe de pui - 65g, Carne de vită - 65g, Cartofi prăjiți(*produs/din produs decongelat) - 40g, Roșii proaspete, Castraveti murati, Varză, Castraveti, Ketchup, Maioneză (Conține Lapte, Ouă), Ceapă, Conservant: Propionat de calciu (E 282)",
-    "gramajProdus": "350 GR",
-    "pretProdus": 32,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 756 / 182.4, Grăsimi (g): 6.7 din care: Acizi grași saturați (g) 1.7, Glucide (g): 19.3 din care: Zaharuri (g): 17.3, Proteine (g): 10.4, Sare (g): 0.5",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "DURUM DE VITA MIC ",
+   "descriereProdus": "CARNE DE VITA/OAIE , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA ",
+   "gramajProdus": "250 GR",
+   "pretProdus": 28,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 751.4 / 180.6, Grăsimi (g): 5.1 din care: Acizi grași saturați (g) 1.3, Glucide (g): 22.1 din care: Zaharuri (g): 19.8, Proteine (g): 11.1, Sare (g): 0.5",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "CHIFLĂ VITĂ",
-    "descriereProdus": "Bagheta alba - 160g, (Faina alba de grau tip 650, apa, maia, sare iodata), Carne de vită - 110g, Cartofi prăjiți(*produs/din produs decongelat), Maioneză (Conține Lapte, Ouă), Ketchup, Castraveti murati, Castraveti, Varza proaspata, Roșii proaspete",
-    "gramajProdus": "350 GR",
-    "pretProdus": 35,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 768.5 / 183, Grăsimi (g): 4.5 din care: Acizi grași saturați (g) 1.1, Glucide (g): 24.6 din care: Zaharuri (g): 1.5, Proteine (g): 10.6, Sare (g): 1.3",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "DURUM DE PUI MARE ",
+   "descriereProdus": "CARNE DE PUI , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat), KETCHUP , MAIONEZA ",
+   "gramajProdus": "350 GR",
+   "pretProdus": 28,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 813.5 / 196.4, Grăsimi (g): 8.4 din care: Acizi grași saturați (g) 2.1, Glucide (g): 19.3 din care: Zaharuri (g): 17.3, Proteine (g): 9.8, Sare (g): 0.5",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "CHIFLĂ PUI",
-    "descriereProdus": "Bagheta alba - 160g, (Faina alba de grau tip 650, apa, maia, sare iodata), Pulpe de pui - 110g, Cartofi prăjiți(*produs/din produs decongelat), Maioneză, Ketchup, Castraveti murati, Castraveti, Varza proaspata, Roșii proaspete",
-    "gramajProdus": "350 GR",
-    "pretProdus": 28,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 865.9 / 206.7, Grăsimi (g): 7.4 din care: Acizi grași saturați (g) 1.8, Glucide (g): 24.6 din care: Zaharuri (g): 1.5, Proteine (g): 9.5, Sare (g): 1.3",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "DURUM DE PUI MIC ",
+   "descriereProdus": "CARNE DE PUI , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat), KETCHUP , MAIONEZA ",
+   "gramajProdus": "250 GR",
+   "pretProdus": 25,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 863 / 207.8, Grăsimi (g): 8.4 din care: Acizi grași saturați (g) 2.1, Glucide (g): 22.1 din care: Zaharuri (g): 19.8, Proteine (g): 9.9, Sare (g): 0.5",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "CHIFLA MIX",
-    "descriereProdus": "Bagheta alba - 160g, (Faina alba de grau tip 650, apa, maia, sare iodata), Carne de vită - 55g, Pulpe de pui - 55g, Cartofi prăjiți(*produs/din produs decongelat), Varză, Maioneză (Conține Lapte, Ouă), Ketchup, Castraveti murati, Castraveti, Roșii proaspete",
-    "gramajProdus": "350 GR",
-    "pretProdus": 30,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 817.5 / 194.9, Grăsimi (g): 6 din care: Acizi grași saturați (g) 1.5, Glucide (g): 24.5 din care: Zaharuri (g): 1.5, Proteine (g): 10.1, Sare (g): 0.8",
-    "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "DURUM MIX MARE ",
+   "descriereProdus": "CARNE DE VITA/OAIE/PUI , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA ",
+   "gramajProdus": "350 GR",
+   "pretProdus": 32,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 756 / 182.4, Grăsimi (g): 6.7 din care: Acizi grași saturați (g) 1.7, Glucide (g): 19.3 din care: Zaharuri (g): 17.3, Proteine (g): 10.4, Sare (g): 0.5",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DONER PUI LA FARFURIE",
-    "descriereProdus": "Orez - 150g, Pulpe de pui - 110g, Cartofi prăjiți(*produs/din produs decongelat) - 50g, Pâine la tigaie - 30g, Castraveti, Roșii proaspete",
-    "gramajProdus": "350 GR",
-    "pretProdus": 40,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 1112 / 264.2, Grăsimi (g): 6.3 din care: Acizi grași saturați (g) 1.8, Glucide (g): 41.6 din care: Zaharuri (g): 3.4, Proteine (g): 9.3, Sare (g): 1.2",
-    "alergeniProdus": "-"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "DURUM MIX MIC",
+   "descriereProdus": "CARNE DE VITA/OAIE/PUI , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA ",
+   "gramajProdus": "250 GR",
+   "pretProdus": 28,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 807.1 / 194.2, Grăsimi (g): 6.8 din care: Acizi grași saturați (g) 1.7, Glucide (g): 22.1 din care: Zaharuri (g): 19.8, Proteine (g): 10.5, Sare (g): 0.5",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DONER VITĂ LA FARFURIE",
-    "descriereProdus": "Orez - 150g, Carne de vită - 110g, Cartofi prăjiți(*produs/din produs decongelat) - 50g, Pâine la tigaie - 30g, Roșii proaspete, Castraveti",
-    "gramajProdus": "350 GR",
-    "pretProdus": 50,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 1112 / 264.2, Grăsimi (g): 6.3 din care: Acizi grași saturați (g) 1.8, Glucide (g): 41.6 din care: Zaharuri (g): 3.4, Proteine (g): 9.3, Sare (g): 1.2",
-    "alergeniProdus": "-"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "DURUM FALAFEL ",
+   "descriereProdus": "LIPIE , FALAFEL , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA ",
+   "gramajProdus": "200 GR",
+   "pretProdus": 22,
+   "nutritieProdus": "Valoare Energetica (Kj/kcal): 1070 / 256 , Grasimi (g) : 6.78 din care : Acizi grasi saturati (g) : 6.78 , Glucide (g) din carde Zaharuri (g): 2.8 , Proteine (g) : 8.9 , Sare (g) 1.7 g",
+   "alergeniProdus": "Alergeni: Susan"
   },
   {
-    "categorieProdus": "KEBAB",
-    "numeProdus": "DONER MIX LA FARFURIE",
-    "descriereProdus": "Orez - 150g, Carne de vită - 55g, Pulpe de pui - 55g, Cartofi prăjiți(*produs/din produs decongelat) - 50g, Pâine la tigaie - 30g, Roșii proaspete, Castraveti",
-    "gramajProdus": "350 GR",
-    "pretProdus": 45,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 1063.3 / 252.4, Grăsimi (g): 4.8 din care: Acizi grași saturați (g) 1.4, Glucide (g): 41.6 din care: Zaharuri (g): 3.4, Proteine (g): 9.8, Sare (g): 1.2",
-    "alergeniProdus": "-"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "CHIFLA VITA ",
+   "descriereProdus": "CHIFLA , CARNE DE VITA/OAIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat), KETCHUP , MAIONEZA ",
+   "gramajProdus": "350 GR",
+   "pretProdus": 35,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 768.5 / 183, Grăsimi (g): 4.5 din care: Acizi grași saturați (g) 1.1, Glucide (g): 24.6 din care: Zaharuri (g): 1.5, Proteine (g): 10.6, Sare (g): 1.3",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "GARNITURI",
-    "numeProdus": "CARTOFI PRĂJIȚI",
-    "descriereProdus": "Cartofi prăjiți(*produs/din produs decongelat) - 150g",
-    "gramajProdus": "150 GR",
-    "pretProdus": 15,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 695 / 166, Grăsimi (g): 7.5 din care: Acizi grași saturați (g) 1.1, Glucide (g): 22 din care: Zaharuri (g): 7.1, Proteine (g): 1.5, Sare (g): 0.4",
-    "alergeniProdus": "-"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "CHIFLA DE PUI ",
+   "descriereProdus": "CHIFLA , CARNE DE PUI , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA",
+   "gramajProdus": "350 GR",
+   "pretProdus": 28,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 865.9 / 206.7, Grăsimi (g): 7.4 din care: Acizi grași saturați (g) 1.8, Glucide (g): 24.6 din care: Zaharuri (g): 1.5, Proteine (g): 9.5, Sare (g): 1.3",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "GARNITURI",
-    "numeProdus": "OREZ",
-    "descriereProdus": "Orez - 140g, Unt",
-    "gramajProdus": "150 GR",
-    "pretProdus": 18,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 1718.1 / 406.7, Grăsimi (g): 6.2 din care: Acizi grași saturați (g) 3.8, Glucide (g): 81.3 din care: Zaharuri (g): 4.9, Proteine (g): 5.7, Sare (g): 2.2",
-    "alergeniProdus": "Conține: Lapte"
+   "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+   "numeProdus": "CHIFLA MIX ",
+   "descriereProdus": "CHIFLA , CARNE DE PUI , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA",
+   "gramajProdus": "350 GR",
+   "pretProdus": 30,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 817.5 / 194.9, Grăsimi (g): 6 din care: Acizi grași saturați (g) 1.5, Glucide (g): 24.5 din care: Zaharuri (g): 1.5, Proteine (g): 10.1, Sare (g): 0.8",
+   "alergeniProdus": "Conține: Gluten, Ouă, Lapte"
   },
   {
-    "categorieProdus": "GARNITURI",
-    "numeProdus": "SALATA MIX",
-    "descriereProdus": "Morcov - 35g, Varză - 35g, Castraveti - 35g, Roșii proaspete - 35g, Ulei de măsline",
-    "gramajProdus": "150 GR",
-    "pretProdus": 15,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 297.6 / 77.2, Grăsimi (g): 6.3 din care: Acizi grași saturați (g) 1.1, Glucide (g): 2.9 din care: Zaharuri (g): 3.1, Proteine (g): 0.7, Sare (g): 0",
-    "alergeniProdus": "-"
+   "categorieProdus": "GARNITURI ",
+   "numeProdus": "CARTOFI PRAJITI ",
+   "descriereProdus": "Cartofi prăjiți(*produs/din produs decongelat) ",
+   "gramajProdus": "150 GR",
+   "pretProdus": 15,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 695 / 166, Grăsimi (g): 7.5 din care: Acizi grași saturați (g) 1.1, Glucide (g): 22 din care: Zaharuri (g): 7.1, Proteine (g): 1.5, Sare (g): 0.4"
   },
   {
-    "categorieProdus": "DESERT",
-    "numeProdus": "SUTLAÇ / OREZ CU LAPTE",
-    "descriereProdus": "Lapte - 150ml, Orez - 30g, Zahăr, Amidon de porumb",
-    "gramajProdus": "200 GR",
-    "pretProdus": 20,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 605.5 / 143.3, Grăsimi (g): 2.8 din care: Acizi grași saturați (g) 1.8, Glucide (g): 26.2 din care: Zaharuri (g): 11.8, Proteine (g): 3.3, Sare (g): 0.4",
-    "alergeniProdus": "Conține: Lapte"
+   "categorieProdus": "GARNITURI ",
+   "numeProdus": "OREZ",
+   "gramajProdus": "150 GR",
+   "pretProdus": 18,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 1718.1 / 406.7, Grăsimi (g): 6.2 din care: Acizi grași saturați (g) 3.8, Glucide (g): 81.3 din care: Zaharuri (g): 4.9, Proteine (g): 5.7, Sare (g): 2.2 "
   },
   {
-    "categorieProdus": "DESERT",
-    "numeProdus": "BUDINCĂ CU CIOCOLATĂ",
-    "descriereProdus": "Lapte - 150ml, Ciocolata cu lapte, (Zahar, unt de cacao, lapte praf integral, lactoza, masa de cacao, emulsifiant (lecitina de floarea soarelui), extract de vanilie.), Zahăr, Cacao neagra, (Unt de cacao 20%), Amidon de porumb, Emulsifiant: Lecitine (E 322)",
-    "gramajProdus": "200 GR",
-    "pretProdus": 18,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 672.6 / 160.2, Grăsimi (g): 7.2 din care: Acizi grași saturați (g) 4.5, Glucide (g): 18.9 din care: Zaharuri (g): 16.4, Proteine (g): 4, Sare (g): 0.1",
-    "alergeniProdus": "Conține: Lapte Poate conține urme de: Nuci"
+   "categorieProdus": "GARNITURI ",
+   "numeProdus": "SALATA MIX ",
+   "descriereProdus": "ROSII , CASTRAVETI , VARZA ROSIE , MORCOV",
+   "gramajProdus": "200 GR",
+   "pretProdus": 25,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 278.9 / 67.4, Grăsimi (g): 4.8 din care: Acizi grași saturați (g) 0.7, Glucide (g): 5.3 din care: Zaharuri (g): 3.2, Proteine (g): 0.8, Sare (g): 0.2"
   },
   {
-    "categorieProdus": "DESERT",
-    "numeProdus": "KEMAL PASA",
-    "descriereProdus": "Biscuit cu burete - 100g, Lapte - 35ml, Zahăr",
-    "gramajProdus": "150 GR",
-    "pretProdus": 15,
-    "nutritieProdus": "Valoare Energetică (kJ/kcal): 1300.6 / 307.3, Grăsimi (g): 3.4 din care: Acizi grași saturați (g) 1.3, Glucide (g): 62.1 din care: Zaharuri (g): 39.1, Proteine (g): 6.4, Sare (g): 0.2",
-    "alergeniProdus": "Conține: Lapte"
+   "categorieProdus": "DESERT",
+   "numeProdus": "OREZ CU LAPTE ",
+   "gramajProdus": "200 GR",
+   "pretProdus": 20,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 605.5 / 143.3, Grăsimi (g): 2.8 din care: Acizi grași saturați (g) 1.8, Glucide (g): 26.2 din care: Zaharuri (g): 11.8, Proteine (g): 3.3, Sare (g): 0.4",
+   "alergeniProdus": "Conține: Lapte"
+  },
+  {
+   "categorieProdus": "DESERT",
+   "numeProdus": "PEYNIR TATLISI ",
+   "descriereProdus": "BISCUITI DIN GRIS INSIROPATI , MASCARPONE , FISTIC ",
+   "gramajProdus": "200 GR",
+   "pretProdus": 20,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 1700 / 403.9, Grăsimi (g): 12.3 din care: Acizi grași saturați (g) 4.7, Glucide (g): 64.7 din care: Zaharuri (g): 42.1, Proteine (g): 7.4, Sare (g): 0.2"
+  },
+  {
+   "categorieProdus": "DESERT",
+   "numeProdus": "KEMAL PASA ",
+   "descriereProdus": "BISCUITI DIN GRIS INSIROPATI ",
+   "gramajProdus": "120 GR",
+   "pretProdus": 15,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 1300.6 / 307.3, Grăsimi (g): 3.4 din care: Acizi grași saturați (g) 1.3, Glucide (g): 62.1 din care: Zaharuri (g): 39.1, Proteine (g): 6.4, Sare (g): 0.2"
+  },
+  {
+   "categorieProdus": "DESERT",
+   "numeProdus": "BUDINCA DE CIOCOLATA ",
+   "gramajProdus": "200 GR",
+   "pretProdus": 20,
+   "nutritieProdus": "Valoare Energetică (kJ/kcal): 672.6 / 160.2, Grăsimi (g): 7.2 din care: Acizi grași saturați (g) 4.5, Glucide (g): 18.9 din care: Zaharuri (g): 16.4, Proteine (g): 4, Sare (g): 0.1"
   },
   {
     "categorieProdus": "RĂCORITOARE",
